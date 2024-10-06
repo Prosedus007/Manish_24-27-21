@@ -1,4 +1,4 @@
-# Project Title
+# Assignment 1
 
 A brief description of what your project does and why it exists.
 
@@ -7,7 +7,6 @@ A brief description of what your project does and why it exists.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -21,11 +20,6 @@ To run this project, you'll need to have Python and Jupyter Notebook installed. 
 2. Navigate to the project directory:
     ```bash
     cd Manish_24-27-21
-    ```
-
-3. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
     ```
 
 ## Usage
